@@ -1,0 +1,14 @@
+NewLogin
+NEWUI_Equip
+NEWUI2
+NEWUI3
+Effect
+NewUI1
+item_2
+CareerChangeColor
+ZenyShopItem
+v2_icon
+NewUI4
+Item_1
+NewCom
+overseas
